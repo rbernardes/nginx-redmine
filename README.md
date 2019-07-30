@@ -37,7 +37,7 @@ rvm install 2.2.3
 rvm use 2.2.3 --default
 ```
 
-### Download Redmine (at this moment 4.0.4):
+### Download Redmine (at this time 4.0.4):
 ```
 wget -O /var/www/redmine-4.0.4.tar.gz http://www.redmine.org/releases/redmine-4.0.4.tar.gz
 cd /var/www
