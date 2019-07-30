@@ -1,4 +1,4 @@
-# Ubuntu 18.04 + redmine
+# Ubuntu 18.04 + redmine + mariadb (with a self-signed SSL Certificate)
 ![redmine](https://github.com/rbernardes/nginx-redmine/blob/master/redmine.png?raw=true)
 
 ### Requirements:
